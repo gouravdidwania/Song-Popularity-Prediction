@@ -35,6 +35,11 @@ Taking an analytics approach, I aim to use information about a song's properties
 ==================
 The dataset songs.csv consists of all songs which made it to the Top 10 of the Billboard Hot 100 Chart from 1990-2010 plus a sample of additional songs that didn't make the Top 10. The variables included in the dataset either describe the artist or the song, or they are associated with the following song attributes: time signature, loudness, key, pitch, tempo, and timbre.
 
+With each passing year, the no of hits varried.
+
+![Sheet 1](https://user-images.githubusercontent.com/86877457/131533144-dcdb8716-524f-4d73-bdca-b584474ba05b.png)
+
+Also, total number of hit is almost 1/7th of the total songs released in the period.
 ![Sheet 1](https://user-images.githubusercontent.com/86877457/131530980-b22322f6-2f81-4279-ae50-9cec46a0fcff.png)
 
 
