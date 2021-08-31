@@ -61,7 +61,8 @@ Split the dataset randomly into three parts train, cross validation and test wit
 
 Results Obtained
 =========================
-Accuracy: 87%, 
-FPR: 3%, 
-Test Brier Score Loss: 0.13
+ Accuracy: 99%
+ FPR: 0.01%
+ Train Brier Score Loss: 0.0001
+ Test Brier Score Loss: 0.013
 
