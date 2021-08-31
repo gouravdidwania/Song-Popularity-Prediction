@@ -5,8 +5,8 @@ artists since 1991 with different sound parameters like time signature, loudness
 timbre. The objective was to build a model to predict whether a song will reach a spot in the Top 10 of 
 the Billboard Hot 100 Chart.
 
-![image](![68747470733a2f2f69322e77702e636f6d2f323633636861742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f62696c6c626f6172642d746f702d3130302e6a70673f6669743d313032342532433830372673736c3d31](https://user-images.githubusercontent.com/86877457/131524321-461aee94-c718-495a-82f6-848cdc0f901a.jpg)
-)
+![image](https://user-images.githubusercontent.com/86877457/131524822-03f182f0-6b6e-44cc-ad2a-e9b560fec82f.png)
+
 
 Description
 ===========
