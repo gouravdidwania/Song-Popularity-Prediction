@@ -38,8 +38,8 @@ The dataset songs.csv consists of all songs which made it to the Top 10 of the B
 With each passing year, the no of hits varried.
 
 ![Sheet 1](https://user-images.githubusercontent.com/86877457/131533144-dcdb8716-524f-4d73-bdca-b584474ba05b.png)
-
 Also, total number of hit is almost 1/7th of the total songs released in the period.
+
 ![Sheet 1](https://user-images.githubusercontent.com/86877457/131530980-b22322f6-2f81-4279-ae50-9cec46a0fcff.png)
 
 
